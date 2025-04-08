@@ -30,7 +30,7 @@
 
 🌱 I’m currently learning **Advanced Cypress Techniques**
 
-👨‍💻 All of my QA projects are available at [github.com/douglassejas](https://github.com/douglassejas)
+👨‍💻 All of my QA projects are available at [github.com/douglassejas](https://github.com/DravenDou)
 
 💬 Ask me about **Cypress, Test Automation, TypeScript**
 
