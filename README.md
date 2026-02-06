@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Douglas Sejas 💻 Full Stack & AI Developer<br>Building scalable web applications, AI-powered systems, and intelligent voice agents.<br>---<br>🧠 About Me<br>-🔭 Building end-to-end web applications<br>-🔭 Building AI applications<br>-🌱 Constantly learning and growing as a developer<br>-💡 Focused on clean, maintainable, and scalable code<br>---
+👋 Hi, I'm Douglas  💻 Full Stack & AI Developer<br>Building scalable web applications, AI-powered systems, and intelligent voice agents.<br>---<br>🧠 About Me<br>-🔭 Building end-to-end web applications<br>-🔭 Building AI applications<br>-🌱 Constantly learning and growing as a developer<br>-💡 Focused on clean, maintainable, and scalable code<br>---
 
 
 ## 🌐 Socials:
