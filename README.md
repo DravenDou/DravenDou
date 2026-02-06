@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left">🛠️ Tech Stack<br><br>💻 Full Stack Development<br>- Languages: JavaScript, TypeScript, Python<br>- Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS<br>- Backend: NestJS,Fast api, RESTful APIs<br>- **Databases:** PostgreSQL<br><br>🤖 AI & Intelligent Systems<br>- **AI Agents:** Design and development of autonomous AI agents<br>- **Voice AI:** Voice-based AI systems and conversational agents<br>- **LLMs:** Integration and orchestration of large language models<br>- **AI Applications:** End-to-end AI-powered applications<br><br>⚙️ Other Tools<br>- Git & GitHub<br>- Docker<br>- Linux<br>- VS Code</h6>
+<h6 align="left">🛠️ Tech Stack<br><br>💻 Full Stack Development<br>- Languages: JavaScript, TypeScript, Python<br>- Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS<br>- Backend: NestJS,Fast api, RESTful APIs<br>- Databases: PostgreSQL<br><br>🤖 AI & Intelligent Systems<br>- AI Agents: Design and development of autonomous AI agents<br>- Voice AI: Voice-based AI systems and conversational agents<br>- LLMs: Integration and orchestration of large language models<br>- AI Applications: End-to-end AI-powered applications<br><br>⚙️ Other Tools<br>- Git & GitHub<br>- Docker<br>- Linux<br>- VS Code</h6>
 
 ###
 
@@ -51,8 +51,12 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="douglassejas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/douglassejas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -63,17 +67,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dravendou/Dravendou/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dravendou/Dravendou/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dravendou/Dravendou/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="www.linkedin.com/in/douglassejas" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/DevDraven" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
