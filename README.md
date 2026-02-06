@@ -1,69 +1,85 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<br clear="both">
 
-<h1 align="center">Hi 👋, I'm Douglas Sejas</h1>
-<h3 align="center">QA Automation Engineer</h3>
-
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=douglassejas&label=Profile%20views&color=0e75b6&style=flat" alt="douglassejas" /> 
-</p>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=168,%2050,%2054&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API Testing" width="65" height="65" />
+<h4 align="left">👋 Hi, I'm Douglas Sejas 💻 Full Stack & AI Developer  <br>Building scalable web applications, AI-powered systems, and intelligent voice agents.</h4>
+
+###
+
+<p align="left">--- <br>🧠 About Me <br>-🔭 Building end-to-end web applications <br>-🌱 Constantly learning and growing as a developer <br>-💡 Focused on clean, maintainable, and scalable code<br> -📍 Bolivia<br> ---</p>
+
+###
+
+<h6 align="left">🛠️ Tech Stack<br><br>💻 Full Stack Development<br>- Languages: JavaScript, TypeScript, Python<br>- Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS<br>- Backend: NestJS,Fast api, RESTful APIs<br>- **Databases:** PostgreSQL<br><br>🤖 AI & Intelligent Systems<br>- **AI Agents:** Design and development of autonomous AI agents<br>- **Voice AI:** Voice-based AI systems and conversational agents<br>- **LLMs:** Integration and orchestration of large language models<br>- **AI Applications:** End-to-end AI-powered applications<br><br>⚙️ Other Tools<br>- Git & GitHub<br>- Docker<br>- Linux<br>- VS Code</h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+###
 
-<img align="right" alt="Coding" width="400" src="https://github.com/douglassejas/douglassejas/blob/main/code.gif">
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<br><br>
+###
 
-🔭 I’m currently working on **API Testing with Postman**
+<div align="center">
+  <img height="233" src="https://media1.tenor.com/m/yDFMgw_vDqoAAAAd/toji-fushiguro-toji.gif"  />
+</div>
 
-🌱 I’m currently learning **Advanced Cypress Techniques**
+###
 
-👨‍💻 All of my QA projects are available at [github.com/DravenDou](https://github.com/DravenDou)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dravendou/Dravendou/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dravendou/Dravendou/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dravendou/Dravendou/output/pacman-contribution-graph.svg">
+</picture>
 
-💬 Ask me about **Cypress, Test Automation, TypeScript**
+###
 
-📫 How to reach me **douglassejas@gmail.com**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
 
-📄 Know about my experiences [LinkedIn Profile](https://linkedin.com/in/douglassejas)
+###
 
-⚡ Fun fact **I can find bugs faster than you can say 'QA'**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dravendou.Dravendou&"  />
+</div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### My Tech Stack
-
-#### Testing Tools:
-![Cypress](http://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Postman](http://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](http://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-#### Programming Languages:
-![TypeScript](http://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](http://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-#### Frontend (Basic Knowledge):
-![HTML5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### Version Control & Others:
-![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](http://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Agile](http://img.shields.io/badge/-Agile-0096D6?style=flat-square&logo=agile&logoColor=white)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect!</b> I'm always open to discussing QA, automation, or new opportunities.</em>
+###
